@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.AssemblyInfo.cs
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\С#\Cal\Cal\bin\Debug\net6.0\Cal.exe
+C:\Users\Максим\Desktop\С#\Cal\Cal\bin\Debug\net6.0\Cal.deps.json
+C:\Users\Максим\Desktop\С#\Cal\Cal\bin\Debug\net6.0\Cal.runtimeconfig.json
+C:\Users\Максим\Desktop\С#\Cal\Cal\bin\Debug\net6.0\Cal.dll
+C:\Users\Максим\Desktop\С#\Cal\Cal\bin\Debug\net6.0\Cal.pdb
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.dll
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\refint\Cal.dll
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.pdb
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\Cal.genruntimeconfig.cache
+C:\Users\Максим\Desktop\С#\Cal\Cal\obj\Debug\net6.0\ref\Cal.dll
